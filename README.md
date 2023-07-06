@@ -5,4 +5,4 @@ Information:
 I coded this in emu8086 IDE and as such it is written in ASM x86. 
 If you wish to play the game run the .exe file in DOSBOX version 0.74-3.
 
-I would gladly accept any improvement suggestions even though the project is currently discontinued.
+The project is currently discontinued, I may add improvements in the future.
